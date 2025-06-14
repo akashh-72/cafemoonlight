@@ -19,7 +19,7 @@ Disallow: /cgi-bin/
 Allow: /img/
 
 # Sitemap location
-Sitemap: https://moonlightcafe.com/sitemap.xml
+Sitemap: https://akashh-72.github.io/cafemoonlight/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 10 
