@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /about.html
+Allow: /menu.html
+Allow: /contact.html
+Allow: /service.html
+Allow: /booking.html
+Allow: /team.html
+Allow: /testimonial.html
+
+# Disallow admin and system files
+Disallow: /admin/
+Disallow: /system/
+Disallow: /includes/
+Disallow: /cgi-bin/
+
+# Allow all images
+Allow: /img/
+
+# Sitemap location
+Sitemap: https://moonlightcafe.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10 
